@@ -1,1 +1,1 @@
-# MovieRatings
+# Movie_Ratings
